@@ -7,6 +7,9 @@ An updated, curated collection of Hashcat rules for cracking complex passwords.
 
 > *Benchmarks credit: [A1131](https://github.com/A113L)*
 
+> [!NOTE]
+> Hashcat beta has introduced *[The Table Attack](https://github.com/hashcat/hashcat/blob/master/docs/hashcat-table.md)*. A collection of tables can be found [here](https://github.com/ibnaleem/tables). **Contributors needed.**
+
 ## 🤝 Contributing
 Simply fork the repo, commit your changes, and open a PR.
 
